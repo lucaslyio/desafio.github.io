@@ -1,0 +1,32 @@
+body{
+    background-color: black;
+
+}
+
+.caixaverde{
+    border: 5px solid lawngreen;
+    width: 300px;
+    height: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.caixaverde > div{
+    
+    width: 30px;
+    height: 30px;
+    display: flex;
+    justify-content: ;
+    align-items: center;
+    background-color: white;
+
+}
+h1{
+    color: white;
+}
+
+p{
+    color: white;
+}
